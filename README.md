@@ -3,6 +3,9 @@ Several colab files for Autogluon assignments
 
 Colabs: <br>
 I: Autogluon Tabular: https://colab.research.google.com/drive/16SBBQoRuuXThisj6dmpZIWSTORXjTtZY?usp=sharing <br>
+...Enable autogluon for GPU: https://colab.research.google.com/drive/1b7d2Eq7JCuRweFzxf5HIiHILfnJYRvz5?usp=sharing
+
+
 F: Image2image: https://colab.research.google.com/drive/1KmRo8vpal90ZD9e9TKlw6kzpmYmPfryl?usp=sharing <br>
 H: Time Forcasting: https://colab.research.google.com/drive/1nCSFNJJUkr4lvUaCs2cyAh1FoZPVg9wC?usp=sharing <br>
 H: Time Series: https://colab.research.google.com/drive/1caLfKNXJf15VwGpLBYIwaGXh9ON4Lijt?usp=sharing <br>
